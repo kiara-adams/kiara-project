@@ -129,12 +129,12 @@ img {
 
  .skills-section {
 
-    /background-image: url('./b3cc40e73ca602a24909b0db8f7b7152.jpg');
+   background-image: url('./b3cc40e73ca602a24909b0db8f7b7152.jpg');
     max-width: 872px;
-   margin: 0 auto;  Center horizontally;  
+   margin: 0 auto  Center horizontally;  
     padding: 0 20px; 
-    text-align: center; Align text and icons center 
-    padding-bottom: 300px; }
+    text-align: center Align text and icons center 
+    padding-bottom:300px  }
   
   .skills-title {
     text-transform: uppercase;
